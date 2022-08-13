@@ -13,6 +13,4 @@ I'm a Software Engineer, Content Creator,. I'm passionate about sharing knowledg
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=Vee-keme&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vee-keme&layout=compact)](https://github.com/Vee-keme/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Vee-keme&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vee-keme&layout=compact)](https://github.com/Vee-keme/github-readme-stats)
