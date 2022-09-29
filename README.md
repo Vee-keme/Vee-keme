@@ -11,7 +11,7 @@ I'm a Software Engineer, Content Creator,. I'm passionate about sharing knowledg
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 📑 I'm a Technical Writer open for internships and entry-level roles.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, Technical Writing, or UI Engineer (Intern or Junior level).
 
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vee-keme&show_icons=true)
