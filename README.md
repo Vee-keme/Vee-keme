@@ -10,6 +10,7 @@ I'm a Software Engineer, Content Creator,. I'm passionate about sharing knowledg
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 📑 I'm a Technical Writer open for internships and entry-level roles.
+- ✍ I write on [Hashnode.](https://veekeme.hashnode.dev/)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, Technical Writing, or UI Engineer (Intern or Junior level).
 
