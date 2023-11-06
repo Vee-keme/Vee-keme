@@ -12,7 +12,7 @@ I'm a Software Engineer, Technical writer and photographer. I'm passionate about
 - 😊 Pronouns: He/him
 - 💡 I am an alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 👷‍♂️ Currently working on scissor - a web app that provides link shortening, user auth, analytics, etc.
-- 🌱 I’m currently learning Reactjs, Vuejs and Typescript.
+- 🌱 I’m currently learning Nodejs and Typescript to attain fullstack status.
 - 📑 I'm a Technical Writer open for internships and entry-level roles.
 - ✍ I write on [Hashnode.](https://veekeme.hashnode.dev/)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
